@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/KKBOX_logo.svg" alt="KKBox Logo" width="300"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+</div>
+
 # KKBox Subscriber Churn Analytics
 
 KKBox is one of Asia's largest music streaming platforms, operating primarily in Taiwan, Hong Kong, and Southeast Asia. This project is a data analytics study of subscriber churn, built on the dataset released by KKBox for the WSDM 2018 challenge on Kaggle.
