@@ -1,2 +1,77 @@
-.venv
-data
+# ─────────────────────────────────────────────────────────────────
+# KKBox Churn Project — .gitignore
+# ─────────────────────────────────────────────────────────────────
+
+
+# ── Raw, processed, and final datasets (GBs — never commit) ──────
+data/raw/
+data/processed/
+data/final/
+
+
+# ── Large parquet files in analytics (100–400 MB each) ───────────
+# The small analytics CSVs below this folder are fine to commit.
+data/analytics/demographics_churn.parquet
+data/analytics/user_transaction_kpis.parquet
+data/analytics/user_engagement.parquet
+data/analytics/age_distribution.parquet
+
+
+# ── MLflow experiment tracking ────────────────────────────────────
+mlruns/
+
+
+# ── Trained model artefacts ───────────────────────────────────────
+models/
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+*.onnx
+*.model
+
+
+# ── Python environment ────────────────────────────────────────────
+.venv/
+venv/
+env/
+.env
+
+
+# ── Python bytecode and caches ────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# ── Jupyter notebooks ─────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+
+# ── Logs ──────────────────────────────────────────────────────────
+logs/
+*.log
+
+
+# ── Streamlit cache ───────────────────────────────────────────────
+.streamlit/cache/
+
+
+# ── macOS hidden metadata files (._filename pattern) ─────────────
+._*
+.DS_Store
+
+
+# ── Windows clutter ───────────────────────────────────────────────
+Thumbs.db
+desktop.ini
+
+
+# ── Editor / IDE ──────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo

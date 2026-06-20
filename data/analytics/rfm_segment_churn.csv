@@ -1,0 +1,17 @@
+days_active_bucket,revenue_bucket,churn_count,total,churn_rate
+Rarely Active,No Revenue,396,449,88.19599109131403
+Rarely Active,Low Value,4186,156417,2.676179699137562
+Rarely Active,Mid Value,5915,35646,16.593727206418674
+Rarely Active,High Value,1629,2418,67.3697270471464
+Occasional,No Revenue,619,808,76.60891089108911
+Occasional,Low Value,6699,380536,1.7604116299114934
+Occasional,Mid Value,17096,136832,12.494153414405988
+Occasional,High Value,10068,12630,79.71496437054631
+Regular,No Revenue,0,0,
+Regular,Low Value,0,0,
+Regular,Mid Value,0,0,
+Regular,High Value,0,0,
+Power User,No Revenue,0,0,
+Power User,Low Value,0,0,
+Power User,Mid Value,0,0,
+Power User,High Value,0,0,

@@ -1,0 +1,5 @@
+cancel_segment,churn_count,total,churn_rate
+Never Cancelled,38415,901253,4.262399126549371
+Low Cancel (<10%),448,1051,42.62607040913416
+Medium Cancel (10-30%),756,1461,51.74537987679672
+High Cancel (>30%),18276,29813,61.302116526347575

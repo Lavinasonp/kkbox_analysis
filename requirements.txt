@@ -1,13 +1,12 @@
-pandas==2.3.3
+pandas==2.2.0
 numpy
-dask[dataframe]
-distributed
 pyarrow
 fastparquet
 scikit-learn
 lightgbm
-mlflow
 pyyaml
 python-dotenv
 pandera
 joblib
+streamlit
+plotly

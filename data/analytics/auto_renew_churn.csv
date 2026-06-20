@@ -1,0 +1,5 @@
+is_auto_renew,is_churn,users,revenue,auto_renew_label
+0,0,57872,9936054,No Auto-Renew
+0,1,25668,19887442,No Auto-Renew
+1,0,819350,123699881,Auto-Renew On
+1,1,33451,10648887,Auto-Renew On

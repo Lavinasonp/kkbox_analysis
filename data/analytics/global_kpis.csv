@@ -1,0 +1,2 @@
+total_users,churned_users,retained_users,churn_rate,retention_rate,male_churn_rate,female_churn_rate
+970960,87330,883630,0.08994191315811156,0.9100580868418885,0.12903730427598614,0.12986590287722952

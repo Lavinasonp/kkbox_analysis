@@ -3,6 +3,7 @@ directories:
   raw_data: "data/raw"
   processed_data: "data/processed"
   final_data: "data/final"
+  analytics_data: "data/analytics"
   model_store: "models"
   logs: "logs"
 
