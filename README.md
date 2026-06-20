@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/KKBOX_logo.svg" alt="KKBox Logo" width="300"/>
+  <h1 style="color:#09CEF6; font-weight:900; margin:0; font-size:4em;">KK<span style="color:#FF4B4B;">BOX</span></h1>
   <br><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
