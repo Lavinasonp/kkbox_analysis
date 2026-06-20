@@ -1,12 +1,4 @@
+streamlit
 pandas==2.2.0
 numpy
-pyarrow
-fastparquet
-scikit-learn
-lightgbm
-pyyaml
-python-dotenv
-pandera
-joblib
-streamlit
 plotly
